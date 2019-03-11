@@ -1,4 +1,4 @@
-# Artist/Band/Composer Social Website (Placeholder Name is <i>"Ensemble"</i>)
+# Artist/Band/Composer Social Website (Placeholder Name: <i>"Ensemble"</i>)
 
 A project pitch given from and credited to <a href="https://www.linkedin.com/in/jasmfuller/">Jasmine Fuller</a>. 
 <br>
