@@ -1,22 +1,22 @@
 # Band Social Website (Placeholder Name is "Ensemble")
 
-<hr>
+
 
 <h2>Getting Started</h2>
 
-<hr>
+
 
 <h2>Running Tests</h2>
 
-<hr>
+
 
 <h2>Deployment</h2>
 
-<hr>
+
 
 <h2>Built With:</h2>
 
-<hr>
+
 
 <h2>Authors</h2>
 
