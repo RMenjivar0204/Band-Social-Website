@@ -1,5 +1,6 @@
 # Artist/Band/Composer Social Website (Placeholder Name is <i>"Ensemble"</i>)
 
+A project started given from <a href="https://www.linkedin.com/in/jasmfuller/">Jasmine Fuller</li>, 
 
 
 <h2>Getting Started</h2>
@@ -23,6 +24,8 @@
   <li>React-Redux</li>
   <li>Material UI</li>
   <li>JSX</li>
+  <li>Postico</li>
+  <li>Postgres
 </ul>
 
 
