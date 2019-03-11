@@ -21,7 +21,7 @@
 <h2>Authors</h2>
 
 <ul>
-  <li><a href="https://github.com/RMenjivar0204>Raul Menjivar</a></li>
+  <li><a href="https://github.com/RMenjivar0204">Raul Menjivar</a></li>
 </ul>
 
 
