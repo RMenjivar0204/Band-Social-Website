@@ -21,8 +21,12 @@
 <h2>Authors</h2>
 
 <ul>
-  <li>Raul Menjivar</li>
+  <li><a href="https://github.com/RMenjivar0204>Raul Menjivar</a></li>
 </ul>
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
