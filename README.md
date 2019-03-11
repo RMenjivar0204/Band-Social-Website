@@ -1,4 +1,4 @@
-# Band Social Website (Placeholder Name is "Ensemble")
+# Artist/Band/Composer Social Website (Placeholder Name is <i>"Ensemble"</i>)
 
 
 
