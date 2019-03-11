@@ -1,6 +1,6 @@
 # Artist/Band/Composer Social Website (Placeholder Name is <i>"Ensemble"</i>)
 
-A project given credited to <a href="https://www.linkedin.com/in/jasmfuller/">Jasmine Fuller</a>. This social media platform would allow composers and musicians to find each other so they can work together.
+A project pitch given from and credited to <a href="https://www.linkedin.com/in/jasmfuller/">Jasmine Fuller</a>. This social media platform would allow composers and musicians to find each other so they can work together.
 
 <h2>Getting Started</h2>
 
