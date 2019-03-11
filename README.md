@@ -16,6 +16,15 @@
 
 <h2>Built With:</h2>
 
+<ul>
+  <li>JavaScript</li>
+  <li>CSS</li>
+  <li>React</li>
+  <li>React-Redux</li>
+  <li>Material UI</li>
+  <li>JSX</li>
+</ul>
+
 
 
 <h2>Authors</h2>
