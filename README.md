@@ -1,3 +1,29 @@
+# Band Social Website (Placeholder Name is "Ensemble")
+
+<hr>
+
+<h2>Getting Started</h2>
+
+<hr>
+
+<h2>Running Tests</h2>
+
+<hr>
+
+<h2>Deployment</h2>
+
+<hr>
+
+<h2>Built With:</h2>
+
+<hr>
+
+<h2>Authors</h2>
+
+<ul>
+  <li>Raul Menjivar</li>
+</ul>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
